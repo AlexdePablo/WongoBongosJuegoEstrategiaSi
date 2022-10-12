@@ -1,2 +1,2 @@
-# WongoBongosJuegoEstrategia
+# WongoBongosJuegoEstrategiasi
  Juego de estrategia
